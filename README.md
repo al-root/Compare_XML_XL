@@ -1,2 +1,2 @@
-# Compare_XML_XL
+# Compare XML & XL
 Comparison script for XML and Excel files
